@@ -8,6 +8,7 @@
 
 - **Model:** MobiCam PM Smart Baby Monitor  
 - **FCC ID:** [2AZHU-W66ZT3X](https://fccid.io/2AZHU-W66ZT3X)
+- **Freq:** 2.412-2.462 GHz
 
 ---
 
