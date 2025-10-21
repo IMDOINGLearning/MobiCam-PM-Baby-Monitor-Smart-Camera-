@@ -7,7 +7,7 @@
 
 ![IMG_0842](https://github.com/user-attachments/assets/cf2a9e00-bcd6-4ad9-8aad-fa595b861b8f)
 
-![IMG_0843.pdf](https://github.com/user-attachments/files/23027890/IMG_0843.pdf)
+![IMG_0843](https://github.com/user-attachments/assets/6b96754e-b668-4154-9e34-b181bcdf8b57)
 
 ---
 
